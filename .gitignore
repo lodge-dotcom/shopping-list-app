@@ -1,0 +1,4 @@
+.env
+.claude/
+.playwright-mcp/
+claude
